@@ -1,0 +1,24 @@
+{
+  "name": "radiogardentelegrambot",
+  "version": "0.0.1",
+  "description": "Radio Garden Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "radio",
+    "garden",
+    "radio.garden",
+    "telegram",
+    "search"
+  ],
+  "author": "Serkan KOCAMAN",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^14.2.0",
+    "nodemon": "^2.0.4",
+    "telegraf": "^4.6.0"
+  }
+}
